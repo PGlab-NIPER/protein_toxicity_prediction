@@ -16,7 +16,7 @@ This prediction script empowers users to assess the potential toxicity of protei
   These features have demonstrated the highest importance in creating accurate predictions for all three toxicity categories.
  
 # How to Use
-1. Make sure you have **R 4.3.0 ** and **R Studio 2023.06.0** installed on your system.
+1. Make sure you have **R 4.3.0** and **R Studio 2023.06.0** installed on your system.
 2. Clone this repository and navigate to the project directory.
 3. Open the prediction script in R Studio.
 4. Input your protein's primary sequence in the designated area.
